@@ -1,2 +1,4 @@
 # CryptoCurrencyApp
-Crypto Currency Application in Python
+## Crypto Currency Application in Python
+
+Python Project on Crypto Currency.
