@@ -1,0 +1,139 @@
+Cryptocurrency Analysis and Forecasting Tool: User Guide
+
+Overview
+
+Welcome to the Cryptocurrency Analysis and Forecasting Tool. This app allows users to analyze, visualize, and forecast cryptocurrency prices using various data science models. It also includes news updates on cryptocurrencies and recommendations for profitable trading.
+
+Navigation Menu
+
+The app contains the following sections:
+
+Home
+
+Visualize Data
+
+Exploratory Data Analysis (EDA)
+
+Groups and Correlation Analysis
+
+Forecasting
+
+Profit Recommendation
+
+Home
+
+Displays the latest cryptocurrency news from various sources.
+
+Provides an overview of current market trends.
+
+Visualize Data
+
+Select a cryptocurrency from the dropdown list.
+
+Visualize price trends through:
+
+Moving Average
+
+Line Chart
+
+Data Table
+
+Exploratory Data Analysis (EDA)
+
+Select a cryptocurrency to explore its historical data.
+
+View summary statistics, histograms, and correlation matrices.
+
+Perform time series decomposition to observe seasonal trends.
+
+Groups and Correlation Analysis
+
+Download and preprocess historical data for all cryptocurrencies.
+
+Perform clustering analysis using KMeans and PCA to group cryptocurrencies based on their behavior.
+
+View top correlations between selected cryptocurrencies.
+
+Forecasting
+
+Select a cryptocurrency to forecast its future prices.
+
+Choose from the following forecasting models:
+
+ARIMA
+
+LSTM (Long Short-Term Memory)
+
+Random Forest Regression
+
+Facebook Prophet
+
+Enter the number of days to forecast.
+
+ARIMA Model
+
+Ensures stationarity through differencing.
+
+Fits an ARIMA model to the data and provides a forecast.
+
+Displays evaluation metrics:
+
+RMSE
+
+MAE
+
+MSE
+
+MAPE
+
+R² Score
+
+LSTM Model
+
+Uses a neural network approach to predict future prices.
+
+Scales data for better performance.
+
+Displays actual vs forecasted values.
+
+Random Forest Regression
+
+Uses historical and lagged data to predict future prices.
+
+Provides iterative forecasting.
+
+Facebook Prophet
+
+Uses Facebook's Prophet model to predict future prices.
+
+Plots the forecast along with confidence intervals.
+
+Profit Recommendation
+
+Enter your desired profit target and time period.
+
+The app recommends cryptocurrencies that are likely to achieve your profit goal within the specified timeframe.
+
+Uses ARIMA to forecast potential profits.
+
+Using the App
+
+Launch the app using Streamlit.
+
+Select a section from the sidebar navigation.
+
+Interact with the app by selecting cryptocurrencies and using buttons to visualize data or run models.
+
+Tips for Best Results
+
+Ensure your internet connection is stable to download live data.
+
+For forecasting, adjust the model parameters based on your data to improve accuracy.
+
+Use the Exploratory Data Analysis section to better understand trends before forecasting.
+
+Contact
+
+For further assistance, contact the app developer.
+
+Happy Trading!
