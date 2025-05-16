@@ -73,17 +73,6 @@ Run the app:
 streamlit run app.py
 ```
 
-## 📌 Future Improvements
-
-- Add support for additional cryptocurrencies
-- Integrate real-time news sentiment using NLP
-- Model comparison dashboard for MAPE, RMSE, etc.
-- Docker support for deployment
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 🙋‍♀️ Author
 
 Built by [Sonja Lovegrove](https://github.com/SonjaLovegrove)  
